@@ -13,10 +13,9 @@ This project implemented multiple ML models to predict whether students will pas
 - XGBoost
 
 ## Results
-![correlation map](https://github.com/Br-Charb/AP-Exam-Predictor/blob/main/heatmap.png?raw=true)
-<p align="center">
-  <img src="https://github.com/Br-Charb/AP-Exam-Predictor/blob/main/results.png" alt="results table"/>
-</p>
+[heatmap] (heatmap.png)
+- Best performing model: KNN model with 59.11% accuracy
+[results table] (results.png)
 
 ## Technologies Used
 - Python
@@ -30,10 +29,4 @@ This project implemented multiple ML models to predict whether students will pas
 
 ## Accompanying Research Paper
 For more information, refer to the full research paper which tested these models:
-[Research Paper](https://drive.google.com/file/d/1fR0TfHp__JdB7sexp98znkKS6QGk9Yz1/view?usp=sharing)
-
-
-
-
-
-
+[research paper] (ResearchPaper.pdf)
