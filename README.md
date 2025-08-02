@@ -29,8 +29,9 @@ This project implemented multiple ML models to predict whether students will pas
 2. Run individual models: `python models/[model_name].py`
 
 ## Accompanying Research Paper
-For more information, refer to the full research paper which tested these models:
+For more information, refer to my full research paper which tested these models:
 [Research Paper](https://drive.google.com/file/d/1fR0TfHp__JdB7sexp98znkKS6QGk9Yz1/view?usp=sharing)
+
 
 
 
